@@ -1,3 +1,9 @@
+"""
+This module has funcitons associated 
+
+"""
+
+
 import os
 import numpy
 import argparse
